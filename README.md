@@ -67,6 +67,7 @@ Vault is used to securely manage access and secret keys required for AWS provide
 ```bash
 opentofu apply -var-file=terraform.tfvars
 
+
 ### Access
 
 Once deployed, you can access your instances using SSH or other appropriate means. Security groups are configured to restrict access based on the specified allowed IP.
