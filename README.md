@@ -95,8 +95,7 @@ backend "s3" {
   region         = "your-aws-region"
   dynamodb_table = "your-dynamodb-lock-table"
 }
-
-
+```
 
 ### Disclaimer
 
