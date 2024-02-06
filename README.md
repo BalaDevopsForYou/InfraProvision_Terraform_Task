@@ -4,8 +4,8 @@ This OpenTofu configuration deploys a scalable AWS infrastructure for your proje
 
 ### Prerequisites
 
-- OpenTofu installed locally ([Install OpenTofu](https://opentofu.io/getting-started))
-- Vault installed and configured ([Install Vault](https://learn.hashicorp.com/tutorials/vault/getting-started-install))
+- OpenTofu installed locally ([Install OpenTofu](https://github.com/opentofu/opentofu/releases/tag/v1.6.1))
+- Vault installed and configured ([Install Vault](https://developer.hashicorp.com/vault/docs/install))
 
 ### Setup
 
