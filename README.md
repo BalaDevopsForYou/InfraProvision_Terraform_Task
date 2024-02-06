@@ -63,9 +63,9 @@ Vault is used to securely manage access and secret keys required for AWS provide
 
 1. Update the variables in `terraform.tfvars` to match your requirements.
 2. Run `opentofu apply` to create the infrastructure, passing the `terraform.tfvars` file to dynamically assign values.
-
+```bash
 opentofu apply -var-file=terraform.tfvars
-
+```
 
 ### Access
 
